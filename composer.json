@@ -1,0 +1,11 @@
+{
+    "name": "php94/router",
+    "description": "router",
+    "type": "library",
+    "license": "GPL-3.0",
+    "autoload": {
+        "psr-4": {
+            "PHP94\\Router\\": "src/"
+        }
+    }
+}
